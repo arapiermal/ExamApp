@@ -24,3 +24,7 @@ Question superclass with AnswerQuestion and MultipleChoiceQuestion subclasses
 Exam class with an aggregate ('has a' relationship) Question LinkedList, polymorphism is used
 
 Student can take multiple exams, StudentExamined class as an aggregate, again with LinkedList
+
+ConsoleTesting.java has a menu which is repeated until the user decides to quit.
+
+Main.java loads a FXML file build with SceneBuilder, and a Controller which can get and set information, input and events from the app live, making it interactive.
