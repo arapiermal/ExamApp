@@ -1,0 +1,42 @@
+Matematike
+QA
+Cila eshte shuma e 10 numrave te pare natyrore?
+2
+55
+MC
+Cila eshte e sakte
+3
+Choice
+Rombi eshte drejtkendesh
+Choice
+Drejtkendeshi eshte katror
+Choice Correct
+Katrori eshte romb
+QA
+Sa eshte faktoriali i 5-es?
+1
+120
+MC
+Cila eshte e gabuar
+3
+Choice
+1+1=2
+Choice
+2^3=8
+Choice Correct
+4!<1+2+3+4
+Choice
+3!=6
+QA
+Sa pyetje keni bere deri me tani? (memory test)
+1
+4
+MC
+Nese Drini ka gjysme buke dhe e ndan me Ervisin dhe Emersonin ne menyre te barabarte, sa buke i ngel Drinit?
+4
+Choice
+1/5
+Choice Correct
+1/6
+Choice
+1/7
