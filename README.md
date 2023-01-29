@@ -20,5 +20,7 @@ Main.java
 - Print file creates a file with the exam using the given and correct answers
 
 Question superclass with AnswerQuestion and MultipleChoiceQuestion subclasses
+
 Exam class with an aggregate ('has a' relationship) Question LinkedList, polymorphism is used
+
 Student can take multiple exams, StudentExamined class as an aggregate, again with LinkedList
